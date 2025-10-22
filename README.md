@@ -3,6 +3,8 @@
 This project automates **7 functional test cases** from the (https://the-internet.herokuapp.com/) demo website using **Playwright (JavaScript)** following the **Page Object Model (POM)** design pattern.  
 It validates common web functionalities such as authentication, dynamic UI behavior, file upload, alert handling, and more.
 
+video record >> https://jam.dev/c/29e7e081-d3a1-4027-8509-72938ad4d1a1
+
 ---
 
 ## 🧩 Automated Test Modules
