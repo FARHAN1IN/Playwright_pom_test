@@ -1,0 +1,11 @@
+{
+  "name": "playwright-pom-automation",
+  "version": "1.0.0",
+  "description": "Playwright automation project with POM structure (7 test cases)",
+  "scripts": {
+    "test": "npx playwright test --headed --video on"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.48.0"
+  }
+}
